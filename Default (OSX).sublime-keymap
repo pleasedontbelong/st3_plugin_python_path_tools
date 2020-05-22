@@ -1,0 +1,5 @@
+[
+	{ "keys": ["super+shift+p"], "command": "copy_pytest_path" },
+	{ "keys": ["super+shift+k"], "command": "copy_python_path" },
+	{ "keys": ["super+shift+i"], "command": "copy_import_first_definition" }
+]

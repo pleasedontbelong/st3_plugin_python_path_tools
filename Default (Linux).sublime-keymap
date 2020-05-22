@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+alt+p"], "command": "copy_pytest_path" },
+	{ "keys": ["ctrl+alt+k"], "command": "copy_python_path" },
+	{ "keys": ["ctrl+alt+i"], "command": "copy_import_first_definition" }
+]
